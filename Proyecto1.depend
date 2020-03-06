@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583483287 source:c:\users\patri\documents\programación orientada a objetos\proyectos\proyecto1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
